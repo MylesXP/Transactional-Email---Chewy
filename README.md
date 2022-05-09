@@ -1,1 +1,1 @@
-# Transactional-Email-Chewy
+# Transactional-Email - Chewy
