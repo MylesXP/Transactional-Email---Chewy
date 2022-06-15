@@ -9,6 +9,6 @@ Built with ZURB stack (Gulp, Inky, BrowserSync, SASS etc.) & Foundations For Ema
 This HTML Email has been tested using Litmus, Email on Acid and MailChimp in the following:
 
 - Gmail ( Including Mobile apps)
-- Outlook including legacy versions (Including Mobile Apps)
+- Outlook (Including Mobile Apps)
 - Apple iCloud Mail
 - Google Android Mail
