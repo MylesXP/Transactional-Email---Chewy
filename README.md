@@ -4,7 +4,7 @@
 
 Responsive Mock Transactional Email for pet store, Chewy.
 
-Built with ZURB stack (Gulp, Inky, BrowserSync, SASS etc.) & Foundations For Emails 2 framework.
+Built with ZURB stack (Gulp, Inky, BrowserSync, SASS etc.), Photoshop for images & Foundations For Emails 2 framework.
 
 This HTML Email has been tested using Litmus, Email on Acid and MailChimp in the following:
 
